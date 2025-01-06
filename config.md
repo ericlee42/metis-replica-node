@@ -1,5 +1,5 @@
 
-## DTL Service Enviroment Config
+## DTL Service Environment Config
 
 
 | Variable                                                | Default     | Description                                                                                        |
