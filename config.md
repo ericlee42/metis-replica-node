@@ -5,7 +5,7 @@
 | Variable                                                | Default     | Description                                                                                        |
 | ------------------------------------------------------- | ----------- | -------------------------------------------------------------------------------------------------- |
 | URL                                                     | -           | used for setting the address manager address                                                       |
-| DATA_TRANSPORT_LAYER__ADDRESS_MANAGER                   | -           | Address of the AddressManager contract on L1., recommend using `URL` settting.                     |
+| DATA_TRANSPORT_LAYER__ADDRESS_MANAGER                   | -           | Address of the AddressManager contract on L1., recommend using `URL` setting.                     |
 | DATA_TRANSPORT_LAYER__DB_PATH                           | /data/db    | Path to the database for this service                                                              |
 | DATA_TRANSPORT_LAYER__POLLING_INTERVAL                  | 5000        | Period of time between execution loops.                                                            |
 | DATA_TRANSPORT_LAYER__DANGEROUSLY_CATCH_ALL_ERRORS      | false       | If true, will catch all errors without throwing.                                                   |
