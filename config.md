@@ -31,7 +31,7 @@
 | Variable                   | Default               | Description                                                                                                      |
 | -------------------------- | --------------------- | ---------------------------------------------------------------------------------------------------------------- |
 | BLOCK_SIGNER_KEY           |                       | only used internally to sign blocks,no need to keep this secret                                                  |
-| BLOCK_SIGNER_ADDRESS       |                       | block signer adddress                                                                                            |
+| BLOCK_SIGNER_ADDRESS       |                       | block signer address                                                                                            |
 | ROLLUP_CLIENT_HTTP         | http://localhost:7878 | HTTP endpoint for the rollup client                                                                              |
 | ROLLUP_POLL_INTERVAL_FLAG  | 10s                   | Interval for polling with the rollup http client                                                                 |
 | ROLLUP_TIMESTAMP_REFRESH   | 3min                  | Interval for refreshing the timestamp                                                                            |
